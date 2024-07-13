@@ -62,7 +62,7 @@ function Projects() {
     {
       id: 7,
       logo: amazon,
-      link:"https://amazon-frontend-clone-nmyga3dns-ritik-kumars-projects-caf99850.vercel.app/",
+      link:"https://amazon-frontend-clone-ritik-kumars-projects-caf99850.vercel.app/",
       src:"https://github.com/ritik0027/Amazon-Frontend-Clone",
       name: "Amazon Frontend Clone",
       text: "Amazon clone made with HTML and CSS."
