@@ -1,8 +1,34 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio! This repository showcases the projects and work I have done as a developer. Here you'll find a collection of my personal and professional projects, including descriptions, technologies used, and links to live demos and source code.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
+
+## About Me
+
+I am a passionate developer with experience in web development, specifically with Frontend Deevelopment and React and backend technologies like Appwrite. I enjoy creating functional and aesthetically pleasing web applications. My goal is to continuously learn and improve my skills while contributing to exciting projects.
+
+
+## Skills
+
+- React
+- Appwrite
+- JavaScript
+- HTML/CSS
+- Tailwind CSS
+- Git/GitHub
+
+## Contact
+
+Feel free to reach out to me for any inquiries or collaboration opportunities:
+
+- Email: [rsengar0089@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/ritik-kumar0027/]
+- GitHub: [https://github.com/ritik0027]
+
+Thank you for visiting my portfolio!
