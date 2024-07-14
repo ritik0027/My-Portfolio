@@ -38,7 +38,7 @@ function Projects() {
     {
       id: 4,
       logo: paytm,
-      link:"https://paytm-clone-ritik-kumars-projects-caf99850.vercel.app/",
+      link:"https://paytm-clone-4f6u1usf8-ritik-kumars-projects-caf99850.vercel.app/",
       src:"https://github.com/ritik0027/Paytm-Clone",
       name: "Paytm Clone",
       text: "Paytm clone UI styled using Tailwind CSS."
@@ -62,7 +62,7 @@ function Projects() {
     {
       id: 7,
       logo: amazon,
-      link:"https://amazon-frontend-clone-ritik-kumars-projects-caf99850.vercel.app/",
+      link:"https://amazon-frontend-clone-gules.vercel.app/",
       src:"https://github.com/ritik0027/Amazon-Frontend-Clone",
       name: "Amazon Frontend Clone",
       text: "Amazon clone made with HTML and CSS."
