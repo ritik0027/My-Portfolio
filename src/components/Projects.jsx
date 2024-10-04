@@ -1,6 +1,7 @@
 import React from "react";
 import currconvert from "../../public/currconvert.png";
 import todo from "../../public/todo.png";
+import twido from "../../public/twido.png"
 import blog from "../../public/blog.png";
 import paytm from "../../public/paytm.png";
 import tic from "../../public/tic.png";
@@ -13,6 +14,14 @@ function Projects() {
   const cardItem = [
     {
       id: 1,
+      logo: twido,
+      link:"https://twido-frontend.onrender.com/",
+      src:"https://github.com/ritik0027/Twido-Frontend",
+      name: "Twido",
+      text: "A video + Twitter App built with MERN stack"
+    },
+    {
+      id: 2,
       logo: blog,
       link:"https://my-blogs-app-sigma.vercel.app/",
       src:"https://github.com/ritik0027/My-Blogs-App",
@@ -20,7 +29,7 @@ function Projects() {
       text: "A blog app with React frontend and Appwrite backend."
     },
     {
-      id: 2,
+      id: 3,
       logo: todo,
       link:"https://todo-app-dusky-alpha.vercel.app/",
       src:"https://github.com/ritik0027/Todo-App",
@@ -28,7 +37,7 @@ function Projects() {
       text: "A blog app with React frontend and Appwrite backend."
     },
     {
-      id: 3,
+      id: 4,
       logo: currconvert,
       link:"https://currency-converter-app-bice.vercel.app/",
       src:"https://github.com/ritik0027/Currency-Converter-App",
@@ -36,7 +45,7 @@ function Projects() {
       text: "Accurate currency converter with real-time exchange rates."
     },
     {
-      id: 4,
+      id: 5,
       logo: paytm,
       link:"https://paytm-clone-4f6u1usf8-ritik-kumars-projects-caf99850.vercel.app/",
       src:"https://github.com/ritik0027/Paytm-Clone",
@@ -44,7 +53,7 @@ function Projects() {
       text: "Paytm clone UI styled using Tailwind CSS."
     },
     {
-      id: 5,
+      id: 6,
       logo: tic,
       link:"https://tic-tac-toe-game-pi-lyart.vercel.app/",
       src:"https://github.com/ritik0027/Web-Development/tree/main/Tic%20Tac%20Toe%20Game",
@@ -52,7 +61,7 @@ function Projects() {
       text: "Interactive Tic Tac Toe game with HTML, Tailwind, JavaScript."
     },
     {
-      id: 6,
+      id: 7,
       logo: password,
       link:"https://password-generator-git-master-ritik-kumars-projects-caf99850.vercel.app/",
       src:"https://github.com/ritik0027/Password-Generator",
@@ -60,7 +69,7 @@ function Projects() {
       text: "Generates unique passwords with letters and numbers."
     },
     {
-      id: 7,
+      id: 8,
       logo: amazon,
       link:"https://amazon-frontend-clone-gules.vercel.app/",
       src:"https://github.com/ritik0027/Amazon-Frontend-Clone",
