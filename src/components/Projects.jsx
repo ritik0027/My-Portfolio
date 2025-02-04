@@ -34,7 +34,7 @@ function Projects() {
       link:"https://todo-app-dusky-alpha.vercel.app/",
       src:"https://github.com/ritik0027/Todo-App",
       name: "Todo App",
-      text: "A blog app with React frontend and Appwrite backend."
+      text: "A Todo App Made with React.js"
     },
     {
       id: 4,
